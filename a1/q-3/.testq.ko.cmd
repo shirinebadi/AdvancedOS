@@ -1,0 +1,1 @@
+cmd_/home/shirin/University/advancedOS/a1/q-3/testq.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/shirin/University/advancedOS/a1/q-3/testq.ko /home/shirin/University/advancedOS/a1/q-3/testq.o /home/shirin/University/advancedOS/a1/q-3/testq.mod.o;  true

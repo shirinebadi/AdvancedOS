@@ -1,0 +1,1 @@
+cmd_/home/shirin/University/advancedOS/a2/q1/Module.symvers := sed 's/\.ko$$/\.o/' /home/shirin/University/advancedOS/a2/q1/modules.order | scripts/mod/modpost -m -a  -o /home/shirin/University/advancedOS/a2/q1/Module.symvers -e -i Module.symvers   -T -

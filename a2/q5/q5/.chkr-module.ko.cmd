@@ -1,0 +1,1 @@
+cmd_/home/shirin/Desktop/a2/q5/chkr-module.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/shirin/Desktop/a2/q5/chkr-module.ko /home/shirin/Desktop/a2/q5/chkr-module.o /home/shirin/Desktop/a2/q5/chkr-module.mod.o;  true

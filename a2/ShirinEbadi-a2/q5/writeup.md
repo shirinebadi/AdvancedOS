@@ -1,0 +1,3 @@
+# Rootkit
+
+Rootkits often work at the kernel level to gain control over system processes and resources. They can insert a kernel module into the running kernel, which can then hook into the system call table. This allows them to intercept and modify system calls as they are made. Rootkits can employ a technique known as system call hooking. This involves replacing or intercepting legitimate system call functions with their own functions. To do this, rootkits might insert code that is executed before or after the original system call, allowing them to monitor or manipulate the system call's behavior.

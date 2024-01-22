@@ -1,0 +1,1 @@
+cmd_/home/shirin/University/advancedOS/a2/q1/modules.order := {   echo /home/shirin/University/advancedOS/a2/q1/ls.ko; :; } | awk '!x[$$0]++' - > /home/shirin/University/advancedOS/a2/q1/modules.order
